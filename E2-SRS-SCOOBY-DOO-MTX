@@ -1,1 +1,63 @@
-VVVVVVVVVVV
+<channels>
+<channel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<externallink><LINKDESSAPAGINA></externallink>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]NOMEDASERIE (0000-0000)[/B][/COLOR]</name>
+<externallink><LINKDAPAGINAALVO></externallink>
+<thumbnail><CAPADASERIE></thumbnail>
+<fanart><FUNDODASERIE></fanart>
+<info>Assista a série NOMEDASERIE. 
+[COLOR orange][B]GENERO[/B][/COLOR]
+[COLOR orange][B]00 TEMPS - 00 EPs[/B][/COLOR]
+[COLOR orange][B]ANOS - 0000 a 0000[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<name>[COLOR white][B]NOMEDASERIE (0000-0000)[/B][/COLOR]</name>
+<externallink><LINKDAPAGINAALVO></externallink>
+<thumbnail><CAPADASERIE></thumbnail>
+<fanart><FUNDODASERIE></fanart>
+<info>Assista aqui os episodios da série NOMEDASERIE. 
+[COLOR orange][B]GENERO[/B][/COLOR]
+[COLOR orange][B]00 TEMPs - 00 EPs[/B][/COLOR]
+[COLOR orange][B]ANOS - 0000 a 0000[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR black].[/COLOR]</name>
+<externallink><LINKDAPAGINAALVO></externallink>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?
+SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</name>
+<externallink><LINKDAPAGINAALVO></externallink>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>	
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
+
