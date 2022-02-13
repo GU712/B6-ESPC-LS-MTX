@@ -18,16 +18,39 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 		
+item>		
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Livro de Boba Fett (2021) - FHD DUAL[/B][/COLOR]</title>		
+		
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 07 EPs[/B][/COLOR]</link>		
+		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4qikngks3w4k25l7spmiwiqxtzllob7m$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Um Estranho numa Terra Estranha [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9858e4dbe76c1c587f80760cd70155fb1f6a4ba2$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]As Tribos de Tatooine [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7fc5666c1f3bc73f6752431a3d09ba54068a7682$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]As Ruas de Mos Espa [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7163cf6c775b793df7d396cfff2573dba8640d59$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]A Tempestade Coletiva[/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c3c6f79f58967dd71f73eb99c59c29718bdbb9c$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]O Retorno do Mandaloriano [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e60c6fadfafd8bb9e9cbeba78139f20f60bad56$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Do Deserto Vem Um Estranho [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e29c4d7cb24a94ae470b21a6ee7a6d52e0325ac6$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Em Nome da Honra [/B][/COLOR]</link>		
+		
+<thumbnail>https://www.themoviedb.org/t/p/original/wp2cPNiJHfo2D1zvv19iEodLtSO.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/2blVVA4gPt8nTfB83hVkpmh8sKL.jpg</fanart>		
+<info>o lendário caçador de recompensas Boba Fett e o mercenário Fennec Shand explorando o submundo da Galáxia quando retornam às areias de Tatooine para reivindicar o território antes governado por Jabba</info>		
+<genre>STAR WARS</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
 <item>		
 <title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Livro de Boba Fett (2021) - T01 - FHD DUAL[/B][/COLOR]</title>		
 		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 04 EPs[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 07 EPs[/B][/COLOR]</link>		
 		
 <link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Boba.Fett/LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Um Estranho numa Terra Estranha [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Boba.Fett/LS-T01E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]As Tribos de Tatoine[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Boba.Fett/LS-T01E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]As Tribos de Tatooine [/B][/COLOR]</link>		
 <link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Boba.Fett/LS-T01E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]As Ruas de Mos Espa [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Boba.Fett/LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]O Livro de Boba Fett [/B][/COLOR]</link>
-	
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Boba.Fett/LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]A Tempestade Coletiva [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Boba.Fett/LS-T01E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Retorno do Mandaloriano [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Boba.Fett/LS-T01E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Do Deserto Vem Um Estranho [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Boba.Fett/LS-T01E07.mkv$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Em Nome da Honra [/B][/COLOR]</link>		
+		
 <thumbnail>https://www.themoviedb.org/t/p/original/wp2cPNiJHfo2D1zvv19iEodLtSO.jpg</thumbnail>		
 <fanart>https://www.themoviedb.org/t/p/original/2blVVA4gPt8nTfB83hVkpmh8sKL.jpg</fanart>		
 <info>o lendário caçador de recompensas Boba Fett e o mercenário Fennec Shand explorando o submundo da Galáxia quando retornam às areias de Tatooine para reivindicar o território antes governado por Jabba</info>		
