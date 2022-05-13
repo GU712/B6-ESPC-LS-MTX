@@ -1,67 +1,133 @@
-<item>
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
-<link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<subitem>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Lote Estragado (2021)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=ACJUDh2bE9k</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/e2lG8OYQp1zbfsKUYIbq8I0DCQb.jpg</fanart>
-<info>Assista ao trailer</info>
-<genre>STAR WARS</genre> 
-</subitem>
-
-subitem>
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Wars - O Lote Estragado (2021)[/B][/COLOR]</title>
-
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<thumbnail>ICONEDASÉRIE</thumbnail>
-<fanart><FUNDODASÉRIE></fanart>
-<info><SINOPSEDASÉRIE></info>
-<genre>STAR WARS</genre>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-subitem>
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Star Wars - O Lote Estragado (2021)[/B][/COLOR]</title>
-
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<thumbnail>ICONEDASÉRIE</thumbnail>
-<fanart><FUNDODASÉRIE></fanart>
-<info><SINOPSEDASÉRIE></info>
-<genre>STAR WARS</genre>
-</subitem>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR black].[/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?
-SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>	
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>			
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>			
+<link>NOLINK</link>			
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>			
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>			
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<item>			
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Star Wars: The Bad Batch[/B][/COLOR]</title>			
+<link>plugin://plugin.video.youtube/play/?video_id=qm2bzNNgAAs</link>			
+<thumbnail>https://www.themoviedb.org/t/p/original/moCWG2pvYtG53Nt1NKVismMfzoN.jpg</thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/e2lG8OYQp1zbfsKUYIbq8I0DCQb.jpg</fanart>			
+<info>Assista ao trailer</info>			
+<genre>STAR WARS</genre> 			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+TORRENTS			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<item>			
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Wars: The Bad Batch (2021) - T01 - HD LEG[/B][/COLOR]</title>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7320371fd7453ad8a714f5dcbbd949239b7027b9</link>			
+<thumbnail>https://www.themoviedb.org/t/p/original/fCVyqfPafwEOL1Askyr9PeFJDqx.jpg</thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/e2lG8OYQp1zbfsKUYIbq8I0DCQb.jpg</fanart>			
+<info>Star Wars The Bad Batch</info>			
+<genre>STAR WARS</genre>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<item>			
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Wars: The Bad Batch (2021) - T01 - FHD DUAL[/B][/COLOR]</title>			
+			
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 00 EPs[/B][/COLOR]</link>			
+			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08380999e9882519c30ec796b155db934cb1378e$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Rescaldo [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a81214d104ed951ed889fda3ad8e44e8a015aee0$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Cortar e Executar [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11ce75097dab88150d860723741fc16f3fb5c791$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Substituisoes [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52f39380d9603d056350070599dfee7cd58d4107$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Encurralado [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a073dd14986d429f083e9c3a73259ccdb34d702e$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Alvoroso [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09c2261d565a011ac6431b14c89e41990c96280b$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Descomissionado [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63b756178bd362bee0d783b6cb6cdcd194c95549$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Cicatrizes de Batalha [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7149771946e93757234d0ded491811807f443a7b$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Reuniao [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7149771946e93757234d0ded491811807f443a7b$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Recompensa Perdida [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5zi3cccze64ttmyiqoxur2tkiyunlfom$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Terreno Comum [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ba00015d7b8ebe01a1246e9e88e223885f7e0bb$nome=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Acordo do Diabo [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee346e01c0cfe3aa7525bc6a7a02d5209546f27b$nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Resgate em Ryloth [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7242d33468e844295b775ff88b3ffb1c4409663$nome=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Infestado [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1bffb4999463ceb851c069be096891ba091279d$nome=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Manto de Guerra [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5252d9a7bf0dca38ddb74489ce062008b30ef896$nome=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white] Retorno a Kamino (Final Parte 1) [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5311f1fdd23083296552ce0899ee113178073e1a$nome=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white] Retorno a Kamino (Final Parte 2) [/B][/COLOR]</link>			
+			
+<thumbnail>https://www.themoviedb.org/t/p/original/fCVyqfPafwEOL1Askyr9PeFJDqx.jpg</thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/e2lG8OYQp1zbfsKUYIbq8I0DCQb.jpg</fanart>			
+<info>Star Wars The Bad Batch</info>			
+<genre>STAR WARS</genre>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+SERVER LS			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<item>			
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Star Wars: The Bad Batch (2021) - T01 - FHD DUAL[/B][/COLOR]</title>			
+			
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 16 EPs[/B][/COLOR]</link>			
+			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/The.Bad.Batch/T01/LS-T01E01.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Rescaldo [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/The.Bad.Batch/T01/LS-T01E02.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Cortar e Executar [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/The.Bad.Batch/T01/LS-T01E03.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Substituisoes [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/The.Bad.Batch/T01/LS-T01E04.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Encurralado [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/The.Bad.Batch/T01/LS-T01E05.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Alvoroso [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/The.Bad.Batch/T01/LS-T01E06.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Descomissionado [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/The.Bad.Batch/T01/LS-T01E07.mp4$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Cicatrizes de Batalha [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/The.Bad.Batch/T01/LS-T01E08.mp4$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Reuniao [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/The.Bad.Batch/T01/LS-T01E09.mp4$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Recompensa Perdida [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/The.Bad.Batch/T01/LS-T01E10.mp4$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Terreno Comum [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/The.Bad.Batch/T01/LS-T01E11.mp4$nome=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Acordo do Diabo [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/The.Bad.Batch/T01/LS-T01E12.mp4$nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Resgate em Ryloth [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/The.Bad.Batch/T01/LS-T01E13.mp4$nome=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Infestado [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/The.Bad.Batch/T01/LS-T01E14.mp4$nome=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Manto de Guerra [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/The.Bad.Batch/T01/LS-T01E15.mp4$nome=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white] Retorno a Kamino (Final Parte 1) [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/The.Bad.Batch/T01/LS-T01E16.mp4$nome=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white] Retorno a Kamino (Final Parte 2) [/B][/COLOR]</link>			
+			
+<thumbnail>https://www.themoviedb.org/t/p/original/fCVyqfPafwEOL1Askyr9PeFJDqx.jpg</thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/e2lG8OYQp1zbfsKUYIbq8I0DCQb.jpg</fanart>			
+<info>Star Wars The Bad Batch</info>			
+<genre>STAR WARS</genre>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+item>			
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Star Wars: The Bad Batch (2021) - T02 - FHD DUAL[/B][/COLOR]</title>			
+			
+<link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 00 EPs[/B][/COLOR]</link>			
+			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+<link><LINKUNIVVERSAL>$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<link>NOLINK$nome=[COLOR black][B].[/B][/COLOR]</link>			
+<link>NOLINK$nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>			
+<link>NOLINK$nome=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>			
+			
+<thumbnail><CAPADASERIE></thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/e2lG8OYQp1zbfsKUYIbq8I0DCQb.jpg</fanart>			
+<info>Star Wars The Bad Batch</info>			
+<genre>STAR WARS</genre>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<item>			
+<title>[COLOR black].[/COLOR]</title>			
+<link>ignoreme</link>			
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>			
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<item>			
+<title>[COLOR orange][B]QUER ASSISTIR OUTRA TEMPORADA ?			
+SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>			
+<link>ignoreme</link>			
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>			
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
