@@ -1,104 +1,107 @@
-<item>																																		
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>																																		
-<link>NOLINK</link>																																		
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>																																		
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>																																		
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>																																		
-</item>																																		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX																																		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX																																		
-																																		
-<item>																																		
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Mandaloriano[/B][/COLOR]</title>																																		
-<link>plugin://plugin.video.youtube/play/?video_id=ra8sFRnLOJM</link>																																		
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg</thumbnail>																																		
-<fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart>																																		
-<info>Assista ao trailer</info>																																		
-<genre>STAR WARS</genre> 																																		
-</item>																																		
-																																		
-<item>																																		
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Mandaloriano (2019 e 2021)[/B][/COLOR] </title>																																		
-																																		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 8 EPs - DUB[/B][/COLOR]</link>																																		
-																																		
-<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:676c40c2c329eac808f2d8e91141aa198f6ab27a$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Mandaloriano [/B][/COLOR]</link>																																		
-<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9db0d61145bf062c71ce731a5df060b58b82c36e$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Criansa[/B][/COLOR]</link>																																		
-<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47f041bf00e7cd74693143258df967a553661911$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Pecado [/B][/COLOR]</link>																																		
-<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66f4b98d2f053d249d0b2424b73f23b29377f2d0$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Santuario[/B][/COLOR]</link>																																		
-<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba2e14f8c958f22ccdc54653c9142f91883d7c3a$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Pistoleiro [/B][/COLOR]</link>																																		
-<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ee343e93c6125b0202e2fe456747495a7e6a635$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]O Prisioneiro [/B][/COLOR]</link>																																		
-<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a83aae53a8f194bd5369355a6ea4e49fda16e39b$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Acerto de Contas [/B][/COLOR]</link>																																		
-<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ce752babfff0fc4ea507d2d86c3041922577a0c$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Redensao [/B][/COLOR]</link>																																		
-																																		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 8 EPs - DUB[/B][/COLOR]</link>																																		
-																																		
-<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5aa2f69d6445e8879a67eabe68a3891b45e09dac$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]O Marechal [/B][/COLOR]</link>																																		
-<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4d233a9a8672827fc3a17e9517705ccb46d4a4e$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]O Passageiro [/B][/COLOR]</link>																																		
-<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59f6c200754756a1c637af43f00cfde1e69c0edb$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]A Herdeira [/B][/COLOR]</link>																																		
-<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a23ff7c7ab6a6746e6d67946ee55e6e2831f9566$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]O Cerco [/B][/COLOR]</link>																																		
-<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec2c5dcb0e1cd92ed801116a2857fe7b32f9ccb0$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]A Jedi [/B][/COLOR]</link>																																		
-<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcbdf1b5b4879a6c37db255c75fef9d8bc709c30$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]A Tragedia [/B][/COLOR]</link>																																		
-<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1109c57305e8fbf7e464859ab64d10801f7f2671$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]O Que Acredita [/B][/COLOR]</link>																																		
-<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b6eab42cab674c03c9786435b3215912808a9d8$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]O Resgate[/B][/COLOR]</link>																																		
-																																		
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg</thumbnail>																																		
-<fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart>																																		
-<info>A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>																																		
-<genre>STAR WARS</genre>  																																		
-</item>																																		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX																																		
-																																		
-<item>																																		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Mandaloriano (2019 e 2021)[/B][/COLOR] </title>																																		
-																																		
-<link>plugin://plugin.video.youtube/play/?video_id=ra8sFRnLOJM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Mandaloriano[/B][/COLOR]</link>																																		
-																																		
-<link>NOLINK$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange] Temporada 01 - 08 EPs - DUB[/B][/COLOR]</link>																																		
-																																		
-<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Mandaloriano [/B][/COLOR]</link>																																		
-<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Criansa[/B][/COLOR]</link>																																		
-<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Pecado [/B][/COLOR]</link>																																		
-<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Santuario[/B][/COLOR]</link>																																		
-<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Pistoleiro [/B][/COLOR]</link>																																		
-<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]O Prisioneiro [/B][/COLOR]</link>																																		
-<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E07.mkv$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Acerto de Contas [/B][/COLOR]</link>																																		
-<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E08.mkv$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Redensao [/B][/COLOR]</link>																																		
-																																		
-<link>NOLINK$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange] Temporada 02 - 08 EPs - DUB[/B][/COLOR]</link>																																		
-																																		
-<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E01.mp4$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]O Marechal [/B][/COLOR]</link>																																		
-<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E02.mp4$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]O Passageiro [/B][/COLOR]</link>																																		
-<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E03.mp4$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]A Herdeira [/B][/COLOR]</link>																																		
-<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E04.mp4$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]O Cerco [/B][/COLOR]</link>																																		
-<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E05.mp4$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]A Jedi [/B][/COLOR]</link>																																		
-<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E06.mp4$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]A Tragedia [/B][/COLOR]</link>																																		
-<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E07.mkv$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]O Que Acredita [/B][/COLOR]</link>																																		
-<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E08.mp4$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]O Resgate[/B][/COLOR]</link>																																		
-																																		
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg</thumbnail>																																		
-<fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart>																																		
-<info>A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>																																		
-<genre>FICÇÃO E FANTASIA</genre>  																																		
-</item>																																		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX																																		
-																																		
-																																		
-<item>																																		
-<title>[COLOR black].[/COLOR]</title>																																		
-<link>ignoreme</link>																																		
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>																																		
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>																																		
-</item>																																		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX																																		
-																																		
-<item>																																		
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?																																		
-SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>																																		
-<link>ignoreme</link>																																		
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png </thumbnail>																																		
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>																																		
-</item>																																		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX																																		
-																																		
-																																		
+<item>			
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>			
+<link>NOLINK</link>			
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>			
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>			
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<item>			
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Mandaloriano[/B][/COLOR]</title>			
+<link>plugin://plugin.video.youtube/play/?video_id=CppDmmfNvHM</link>			
+<thumbnail>https://www.themoviedb.org/t/p/original/msx02cHuCa33PUQV6Ez5KhaJa4Q.jpg</thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/lp4Fly8X48fnBGp9FY9guolm2HJ.jpg</fanart>			
+<info>Assista ao trailer</info>			
+<genre>FICÇÃO E FANTASIA</genre> 			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<item>			
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Mandaloriano (2019) - T01 - FHD DUAL[/B][/COLOR]</title>			
+			
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 08 EPs[/B][/COLOR]</link>			
+			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55dbfc380257cf5559f6e47187f63c70f550ba6c$nome=[COLOR orange][B]T01E01	GET[COLOR yellow] -> [COLOR white]O Mandaloriano [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5c7nhihvzy646r4y6wdoj37rixinkumf$nome=[COLOR orange][B]T01E02	GET[COLOR yellow] -> [COLOR white]A Criansa[/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47f041bf00e7cd74693143258df967a553661911$nome=[COLOR orange][B]T01E03	GET[COLOR yellow] -> [COLOR white]O Pecado [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c9806b107fc24c064cd988385831c353d233034$nome=[COLOR orange][B]T01E04	GET[COLOR yellow] -> [COLOR white]Santuario[/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8be31ccdddc8418c8dd436dc701e29e283fa68ae$nome=[COLOR orange][B]T01E05	GET[COLOR yellow] -> [COLOR white]O Pistoleiro [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0024b5415eeeed254dac91de47a9b03202828a87$nome=[COLOR orange][B]T01E06	GET[COLOR yellow] -> [COLOR white]O Prisioneiro [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7vji7vh5znnceadc6px6ifd55kfo3aku$nome=[COLOR orange][B]T01E07	GET[COLOR yellow] -> [COLOR white]O Acerto de Contas [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0283bb97d55b72e532b6a0c41eec4086ed5b2507$nome=[COLOR orange][B]T01E08	GET[COLOR yellow] -> [COLOR white]Redensao [/B][/COLOR]</link>		
+			
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/lp4Fly8X48fnBGp9FY9guolm2HJ.jpg</fanart>			
+<info>A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>			
+<genre>FICÇÃO E FANTASIA</genre>  			
+</subitem>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<item>			
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Mandaloriano (2020) - T02 - FHD DUAL[/B][/COLOR]</title>			
+			
+<link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 8 EPs[/B][/COLOR]</link>			
+			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5aa2f69d6445e8879a67eabe68a3891b45e09dac$nome=[COLOR orange][B]T02E01	GET[COLOR yellow] -> [COLOR white]O Marechal [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4tjdhknim4ucp7b2c7uvc5yfzs2g2sso$nome=[COLOR orange][B]T02E02	GET[COLOR yellow] -> [COLOR white]O Passageiro [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59f6c200754756a1c637af43f00cfde1e69c0edb$nome=[COLOR orange][B]T02E03	GET[COLOR yellow] -> [COLOR white]A Herdeira [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a23ff7c7ab6a6746e6d67946ee55e6e2831f9566$nome=[COLOR orange][B]T02E04	GET[COLOR yellow] -> [COLOR white]O Cerco [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5qwf3syodtms5wabcfvcqv76pmzpttfq$nome=[COLOR orange][B]T02E05	GET[COLOR yellow] -> [COLOR white]A Jedi [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3s67dnnuq6ngyn63evohl7xz3c6hbhbq$nome=[COLOR orange][B]T02E06	GET[COLOR yellow] -> [COLOR white]A Tragedia [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1109c57305e8fbf7e464859ab64d10801f7f2671$nome=[COLOR orange][B]T02E07	GET[COLOR yellow] -> [COLOR white]O Que Acredita [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b6eab42cab674c03c9786435b3215912808a9d8$nome=[COLOR orange][B]T02E08	GET[COLOR yellow] -> [COLOR white]O Resgate[/B][/COLOR]</link>		
+			
+<thumbnail>https://www.themoviedb.org/t/p/original/8LHNnMA9xP6sUhkma0aOv5RWtzo.jpg</thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/lp4Fly8X48fnBGp9FY9guolm2HJ.jpg</fanart>			
+<info>A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>			
+<genre>FICÇÃO E FANTASIA</genre>  			
+</subitem>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+SERVER LS			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<item>			
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Mandaloriano (2019) - T01 - FHD DUAL[/B][/COLOR]</title>			
+			
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 8 EPs[/B][/COLOR]</link>			
+			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Mandaloriano [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Criansa[/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Pecado [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Santuario[/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Pistoleiro [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]O Prisioneiro [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E07.mkv$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Acerto de Contas [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T01/LS-T01E08.mkv$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Redensao [/B][/COLOR]</link>			
+			
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/lp4Fly8X48fnBGp9FY9guolm2HJ.jpg</fanart>			
+<info>A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>			
+<genre>FICÇÃO E FANTASIA</genre>  			
+</subitem>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<item>			
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Mandaloriano (2020) - T02 - FHD DUAL[/B][/COLOR]</title>			
+			
+<link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 8 EPs[/B][/COLOR]</link>			
+			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E01.mp4$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]O Marechal [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E02.mp4$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]O Passageiro [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E03.mp4$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]A Herdeira [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E04.mp4$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]O Cerco [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E05.mp4$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]A Jedi [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E06.mp4$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]A Tragedia [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E07.mp4$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]O Que Acredita [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T02/LS-T02E08.mp4$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]O Resgate[/B][/COLOR]</link>			
+			
+<thumbnail>https://www.themoviedb.org/t/p/original/8LHNnMA9xP6sUhkma0aOv5RWtzo.jpg</thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/lp4Fly8X48fnBGp9FY9guolm2HJ.jpg</fanart>			
+<info>A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>			
+<genre>FICÇÃO E FANTASIA</genre>  			
+</subitem>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
