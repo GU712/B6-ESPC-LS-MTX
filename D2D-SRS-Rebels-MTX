@@ -1,68 +1,142 @@
-<item>
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
-<link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Rebels[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=xg5YN3LAGw4</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oPti8Yf7ryQb6bQZfZlYgeCZkm3.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/lcnbOzcRYPwDMRbfwG1uViUW9IE.jpg</fanart>
-<info>Assista ao trailer</info>
-<genre>STAR WARS</genre> 
-</item>
-
-item>
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Rebels - (DATA)[/B][/COLOR]</title>
-
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oPti8Yf7ryQb6bQZfZlYgeCZkm3.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/lcnbOzcRYPwDMRbfwG1uViUW9IE.jpg</fanart>
-<info>Forças imperiais ocupam um planeta distante e governam a vida de seus habitantes com mãos de ferro. Uma equipe mais esperta, a bordo do navio Ghost, se rebela contra o Império e enfrenta os novos inimigos.</info>
-<genre>STAR WARS</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-item>
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Rebels - (DATA)[/B][/COLOR]</title>
-
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oPti8Yf7ryQb6bQZfZlYgeCZkm3.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/lcnbOzcRYPwDMRbfwG1uViUW9IE.jpg</fanart>
-<info>Forças imperiais ocupam um planeta distante e governam a vida de seus habitantes com mãos de ferro. Uma equipe mais esperta, a bordo do navio Ghost, se rebela contra o Império e enfrenta os novos inimigos.</info>
-<genre>STAR WARS</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR black].[/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?
-SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>	
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+<item>			
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>			
+<link>NOLINK</link>			
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>			
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>			
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<item>			
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Star Wars: Rebels[/B][/COLOR]</title>			
+<link>plugin://plugin.video.youtube/play/?video_id=xg5YN3LAGw4</link>			
+<thumbnail>https://www.themoviedb.org/t/p/original/kaglJdFMBQA8vqwg55bUUalv7jh.jpg</thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/lcnbOzcRYPwDMRbfwG1uViUW9IE.jpg</fanart>			
+<info>Assista ao trailer</info>			
+<genre>STAR WARS</genre> 			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+TORRENTS			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<item>			
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Wars: Rebels (2014) - T01 Part 1 - HD DUAL[/B][/COLOR]</title>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C56102149DBC1FC44F319CE6F36233893748E8C6</link>			
+<thumbnail>https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg</thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/lcnbOzcRYPwDMRbfwG1uViUW9IE.jpg</fanart>			
+<info>Os Jedi foram exterminados e o Império espalha tirania pela galáxia.</info>			
+<genre>STAR WARS</genre>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<item>			
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Wars: Rebels (2014) - T01 Part 2 - HD DUAL[/B][/COLOR]</title>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:660b4dc47d8dfc5a153b0ba5a1e4e8f21b880706</link>			
+<thumbnail>https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg</thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/lcnbOzcRYPwDMRbfwG1uViUW9IE.jpg</fanart>			
+<info>Os Jedi foram exterminados e o Império espalha tirania pela galáxia.</info>			
+<genre>STAR WARS</genre>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+item>			
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Wars: Rebels (2014) - T02 - HD DUAL[/B][/COLOR]</title>			
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET></link>			
+<thumbnail><CAPADASERIE></thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/lcnbOzcRYPwDMRbfwG1uViUW9IE.jpg</fanart>			
+<info>Os Jedi foram exterminados e o Império espalha tirania pela galáxia.</info>			
+<genre>STAR WARS</genre>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+			
+item>			
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Wars: Rebels (2014) - FHD DUAL[/B][/COLOR]</title>			
+			
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 00 EPs[/B][/COLOR]</link>			
+			
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
+			
+<thumbnail><CAPADASERIE></thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/lcnbOzcRYPwDMRbfwG1uViUW9IE.jpg</fanart>			
+<info>Os Jedi foram exterminados e o Império espalha tirania pela galáxia.</info>			
+<genre>STAR WARS</genre>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+SERVER LS			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<item>			
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Star Wars: Rebels (2014) - T01 - FHD DUAL+LEG[/B][/COLOR]</title>			
+			
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 13 EPs[/B][/COLOR]</link>			
+			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Rebels/T01/LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Fagulha de Rebeliao [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Rebels/T01/LS-T01E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Droides em Apuros [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Rebels/T01/LS-T01E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Casa Rebelled [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Rebels/T01/LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]A Ascensao dos Velhos Mestres [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Rebels/T01/LS-T01E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Quebra de Hierarquia [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Rebels/T01/LS-T01E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Vindos da Escuridao [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Rebels/T01/LS-T01E07.mkv$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Dia do Imperio [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Rebels/T01/LS-T01E08.mkv$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Reunindo Forsas [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Rebels/T01/LS-T01E09.mkv$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]O Caminho de Jedi [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Rebels/T01/LS-T01E10.mkv$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]A Mao do Idiota [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Rebels/T01/LS-T01E11.mkv$nome=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Visao de Esperansa [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Rebels/T01/LS-T01E12.mkv$nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Chamada Para A Asao [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Rebels/T01/LS-T01E13.mkv$nome=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Decisao Rebelde [/B][/COLOR]</link>			
+			
+<thumbnail>https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg</thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/lcnbOzcRYPwDMRbfwG1uViUW9IE.jpg</fanart>			
+<info>Os Jedi foram exterminados e o Império espalha tirania pela galáxia.</info>			
+<genre>STAR WARS</genre>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+item>			
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Star Wars: Rebels (2014) - T02 - FHD DUAL[/B][/COLOR]</title>			
+			
+<link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 00 EPs[/B][/COLOR]</link>			
+			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+<link><LINKUNIVVERSAL>$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<link>NOLINK$nome=[COLOR black][B].[/B][/COLOR]</link>			
+<link>NOLINK$nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>			
+<link>NOLINK$nome=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>			
+			
+<thumbnail><CAPADASERIE></thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/lcnbOzcRYPwDMRbfwG1uViUW9IE.jpg</fanart>			
+<info>Os Jedi foram exterminados e o Império espalha tirania pela galáxia.</info>			
+<genre>STAR WARS</genre>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<item>			
+<title>[COLOR black].[/COLOR]</title>			
+<link>ignoreme</link>			
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>			
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<item>			
+<title>[COLOR orange][B]QUER ASSISTIR OUTRA TEMPORADA ?			
+SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>			
+<link>ignoreme</link>			
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>			
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
