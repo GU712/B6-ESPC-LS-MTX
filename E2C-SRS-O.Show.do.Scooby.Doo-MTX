@@ -1,112 +1,108 @@
-<item>	
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
-<link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>	
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>	
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-	
-<item>	
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Show do Scooby Doo[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=wCsRvK42L48</link>	
-<thumbnail>https://i.ibb.co/P6m4LTc/scooby-show-icon.png</thumbnail>	
-<fanart>https://i.ibb.co/n7L6jcJ/scooby-show-ifan.png</fanart>	
-<info>Assista ao trailer</info>	
-<genre>SCOOBY DOO</genre> 	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-	
-<item>	
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Show do Scooby Doo - FHD DUAL[/B][/COLOR]</title>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe8977a37209244d1e31927cbc2b916a6cdcab23</link>	
-<thumbnail>https://i.ibb.co/P6m4LTc/scooby-show-icon.png</thumbnail>	
-<fanart>https://i.ibb.co/n7L6jcJ/scooby-show-ifan.png</fanart>	
-<info>Scooby e seus amigos investigam mistérios assustadores e vivem grandes aventuras.</info>	
-<genre>SCOOBY DOO</genre> 	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-	
-<item>	
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Show do Scooby Doo (1976) - T01 - FHD DUAL[/B][/COLOR]</title>	
-	
-<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 16 EPs[/B][/COLOR]</link>	
-	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Aventura Arrepiante [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]O Anfitriao E Uma Assombrasao [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Jogo Horripilante [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Fantasma Chocante [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Cavaleiro Sem-Cabesa De Halloween [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Muito Susto Em Camelot [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E07.mkv$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Sanatorio Assustador [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E08.mkv$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]O Zumbi sem Rosto [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E09.mkv$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Mamba Wamba [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E10.mkv$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]O Demonio [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E11.mkv$nome=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Uma Parada para Scooby [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E12.mkv$nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Tubarao Fantasma [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E13.mkv$nome=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Scooby-Doo  Cade a Tripulasao? [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E14.mkv$nome=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]O Fantasma O Jogo e o Saque [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E15.mkv$nome=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]O Fantasma do Homem Mau Humorado [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E16.mkv$nome=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Os Espiritos dos 76 [/B][/COLOR]</link>	
-	
-<thumbnail>https://i.ibb.co/P6m4LTc/scooby-show-icon.png</thumbnail>	
-<fanart>https://i.ibb.co/n7L6jcJ/scooby-show-ifan.png</fanart>	
-<info>Scooby e seus amigos investigam mistérios assustadores e vivem grandes aventuras.</info>	
-<genre>SCOOBY DOO</genre> 	
-</subitem>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-	
-<item>	
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Show do Scooby Doo (1977) - T02 - FHD DUAL[/B][/COLOR]</title>	
-	
-<link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 08 EPs[/B][/COLOR]</link>	
-	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E01.mkv$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]A Maldisao do Lago Viking [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E02.mkv$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Vampiros Morcegos e Outros Bichos [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E03.mkv$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Aguenta ai  Scooby [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E04.mkv$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]O Filme de Terror [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E05.mkv$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]A Corrida Arrepiante [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E06.mkv$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]A Bruxa de Ozark [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E07.mkv$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]O Cruzeiro Assustador [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T02E08.mkv$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Pavor das Profundezas [/B][/COLOR]</link>	
-	
-<thumbnail>https://i.ibb.co/P6m4LTc/scooby-show-icon.png</thumbnail>	
-<fanart>https://i.ibb.co/n7L6jcJ/scooby-show-ifan.png</fanart>	
-<info>Scooby e seus amigos investigam mistérios assustadores e vivem grandes aventuras.</info>	
-<genre>SCOOBY DOO</genre> 	
-</subitem>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-	
-<item>	
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Show do Scooby Doo (1978) - T03 - FHD DUAL[/B][/COLOR]</title>	
-	
-<link>NOLINK$nome=[COLOR orange][B] Temporada 03 - 16 EPs[/B][/COLOR]</link>	
-	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E01.mkv$nome=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Cuidado com o Willawaw [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E02.mkv$nome=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Um Assombroso Triangulo das Bermudas [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E03.mkv$nome=[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Um Encontro Assustador com o Monstro da Neve [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E04.mkv$nome=[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]Como Expulsar uma Bruxa [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E05.mkv$nome=[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]Monstro de Breu [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E06.mkv$nome=[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Encontro com o Monstro [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E07.mkv$nome=[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]O Fantasma do Cara de Ferro [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E08.mkv$nome=[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]Aventura Arrepiante na Selva [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E09.mkv$nome=[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white]A Gata Fantasma [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E10.mkv$nome=[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white]O Monstro Super Aterrador [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E11.mkv$nome=[COLOR orange][B]T03E11[COLOR yellow] -> [COLOR white]O Demonio Diabolico [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E12.mkv$nome=[COLOR orange][B]T03E12[COLOR yellow] -> [COLOR white]O Biscoito Chines da Sorte [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E13.mkv$nome=[COLOR orange][B]T03E13[COLOR yellow] -> [COLOR white]Ameasa em Veneza [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E14.mkv$nome=[COLOR orange][B]T03E14[COLOR yellow] -> [COLOR white]Nao se Aproxime da Fortaleza do Medo [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E15.mkv$nome=[COLOR orange][B]T03E15[COLOR yellow] -> [COLOR white]O Bruxo de Winbledon [/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T03E16.mkv$nome=[COLOR orange][B]T03E16[COLOR yellow] -> [COLOR white]Aventura no Fundo do Mar [/B][/COLOR]</link>	
-	
-<thumbnail>https://i.ibb.co/P6m4LTc/scooby-show-icon.png</thumbnail>	
-<fanart>https://i.ibb.co/n7L6jcJ/scooby-show-ifan.png</fanart>	
-<info>Scooby e seus amigos investigam mistérios assustadores e vivem grandes aventuras.</info>	
-<genre>SCOOBY DOO</genre> 	
-</subitem>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-	
-	
-	
-	
+T02/LS-T02E
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Show do Scooby Doo[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=wCsRvK42L48</link>
+<thumbnail>https://i.ibb.co/P6m4LTc/scooby-show-icon.png</thumbnail>
+<fanart>https://i.ibb.co/n7L6jcJ/scooby-show-ifan.png</fanart>
+<info>Assista ao trailer</info>
+<genre>SCOOBY DOO</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Show do Scooby Doo - FHD DUAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe8977a37209244d1e31927cbc2b916a6cdcab23</link>
+<thumbnail>https://i.ibb.co/P6m4LTc/scooby-show-icon.png</thumbnail>
+<fanart>https://i.ibb.co/n7L6jcJ/scooby-show-ifan.png</fanart>
+<info>Scooby e seus amigos investigam mistérios assustadores e vivem grandes aventuras.</info>
+<genre>SCOOBY DOO</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Show do Scooby Doo (1976) - T01 - FHD DUAL[/B][/COLOR]</title>
+
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 16 EPs[/B][/COLOR]</link>
+
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Aventura Arrepiante [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]O Anfitriao E Uma Assombrasao [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Jogo Horripilante [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Fantasma Chocante [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Cavaleiro Sem-Cabesa De Halloween [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Muito Susto Em Camelot [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E07.mkv$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Sanatorio Assustador [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E08.mkv$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]O Zumbi sem Rosto [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E09.mkv$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Mamba Wamba [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E10.mkv$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]O Demonio [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E11.mkv$nome=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Uma Parada para Scooby [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E12.mkv$nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Tubarao Fantasma [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E13.mkv$nome=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Scooby-Doo  Cade a Tripulasao? [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E14.mkv$nome=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]O Fantasma O Jogo e o Saque [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E15.mkv$nome=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]O Fantasma do Homem Mau Humorado [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T01/LS-T01E16.mkv$nome=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Os Espiritos dos 76 [/B][/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/P6m4LTc/scooby-show-icon.png</thumbnail>
+<fanart>https://i.ibb.co/n7L6jcJ/scooby-show-ifan.png</fanart>
+<info>Scooby e seus amigos investigam mistérios assustadores e vivem grandes aventuras.</info>
+<genre>SCOOBY DOO</genre> 
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Show do Scooby Doo (1977) - T02 - FHD DUAL[/B][/COLOR]</title>
+
+<link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 08 EPs[/B][/COLOR]</link>
+
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T02/LS-T02E01.mkv$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]A Maldisao do Lago Viking [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T02/LS-T02E02.mkv$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Vampiros Morcegos e Outros Bichos [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T02/LS-T02E03.mkv$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Aguenta ai  Scooby [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T02/LS-T02E04.mkv$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]O Filme de Terror [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T02/LS-T02E05.mkv$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]A Corrida Arrepiante [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T02/LS-T02E06.mkv$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]A Bruxa de Ozark [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T02/LS-T02E07.mkv$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]O Cruzeiro Assustador [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T02/LS-T02E08.mkv$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Pavor das Profundezas [/B][/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/P6m4LTc/scooby-show-icon.png</thumbnail>
+<fanart>https://i.ibb.co/n7L6jcJ/scooby-show-ifan.png</fanart>
+<info>Scooby e seus amigos investigam mistérios assustadores e vivem grandes aventuras.</info>
+<genre>SCOOBY DOO</genre> 
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Show do Scooby Doo (1978) - T03 - FHD DUAL[/B][/COLOR]</title>
+
+<link>NOLINK$nome=[COLOR orange][B] Temporada 03 - 16 EPs[/B][/COLOR]</link>
+
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T03/LS-T03E01.mkv$nome=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Cuidado com o Willawaw [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T03/LS-T03E02.mkv$nome=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Um Assombroso Triangulo das Bermudas [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T03/LS-T03E03.mkv$nome=[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Um Encontro Assustador com o Monstro da Neve [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T03/LS-T03E04.mkv$nome=[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]Como Expulsar uma Bruxa [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T03/LS-T03E05.mkv$nome=[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]Monstro de Breu [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T03/LS-T03E06.mkv$nome=[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Encontro com o Monstro [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T03/LS-T03E07.mkv$nome=[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]O Fantasma do Cara de Ferro [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T03/LS-T03E08.mkv$nome=[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]Aventura Arrepiante na Selva [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T03/LS-T03E09.mkv$nome=[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white]A Gata Fantasma [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T03/LS-T03E10.mkv$nome=[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white]O Monstro Super Aterrador [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T03/LS-T03E11.mkv$nome=[COLOR orange][B]T03E11[COLOR yellow] -> [COLOR white]O Demonio Diabolico [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T03/LS-T03E12.mkv$nome=[COLOR orange][B]T03E12[COLOR yellow] -> [COLOR white]O Biscoito Chines da Sorte [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T03/LS-T03E13.mkv$nome=[COLOR orange][B]T03E13[COLOR yellow] -> [COLOR white]Ameasa em Veneza [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T03/LS-T03E14.mkv$nome=[COLOR orange][B]T03E14[COLOR yellow] -> [COLOR white]Nao se Aproxime da Fortaleza do Medo [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T03/LS-T03E15.mkv$nome=[COLOR orange][B]T03E15[COLOR yellow] -> [COLOR white]O Bruxo de Winbledon [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SCOOBY/SER/Show.Scooby/T03/LS-T03E16.mkv$nome=[COLOR orange][B]T03E16[COLOR yellow] -> [COLOR white]Aventura no Fundo do Mar [/B][/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/P6m4LTc/scooby-show-icon.png</thumbnail>
+<fanart>https://i.ibb.co/n7L6jcJ/scooby-show-ifan.png</fanart>
+<info>Scooby e seus amigos investigam mistérios assustadores e vivem grandes aventuras.</info>
+<genre>SCOOBY DOO</genre> 
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
