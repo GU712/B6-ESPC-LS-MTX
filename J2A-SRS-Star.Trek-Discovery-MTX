@@ -1,0 +1,106 @@
+<item>		
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>		
+<link>NOLINK</link>		
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>		
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>		
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Star Trek: Discovery[/B][/COLOR]</title>		
+<link>plugin://plugin.video.youtube/play/?video_id=U9E2olGqUlU</link>		
+<thumbnail>https://www.themoviedb.org/t/p/original/jWzaR5tSvo0WdPSQfcHa10qO8Yf.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/p1dHBvSkoLiKnXmSLkAL87kIhei.jpg</fanart>		
+<info>Assista ao trailer</info>		
+<genre>FICÇÃO E FANTASIA</genre> 		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+item>		
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek: Discovery (DATA) - FHD DUAL[/B][/COLOR]</title>		
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET></link>		
+<thumbnail><CAPADASERIE></thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/p1dHBvSkoLiKnXmSLkAL87kIhei.jpg</fanart>		
+<info>Após um século de isolamento, a Federação e o Império Klingon entram em guerra, e as ações de uma oficial da Frota Estelar estão no centro do conflito.</info>		
+<genre>FICÇÃO E FANTASIA</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+item>		
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Star Trek: Discovery (DATA) - FHD DUAL[/B][/COLOR]</title>		
+<link>NOLINK$nome=[COLOR orange][B] Completo - 3 Temps - 40 EPs[/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>		
+<thumbnail><CAPADASERIE></thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/p1dHBvSkoLiKnXmSLkAL87kIhei.jpg</fanart>		
+<info>Após um século de isolamento, a Federação e o Império Klingon entram em guerra, e as ações de uma oficial da Frota Estelar estão no centro do conflito.</info>		
+<genre>FICÇÃO E FANTASIA</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Star Trek: Discovery (2017) - T01 - HD DUAL[/B][/COLOR]</title>		
+		
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 15 EPs[/B][/COLOR]</link>		
+		
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Trek/SRS/Discovery/T01/LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Ola Vulcano [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Trek/SRS/Discovery/T01/LS-T01E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Batalha Das Estrelas Binarias [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Trek/SRS/Discovery/T01/LS-T01E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Contexto E Para Reis [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Trek/SRS/Discovery/T01/LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]A Faca Do Asougueiro Nao Ouve O Berro Do Cordeiro [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Trek/SRS/Discovery/T01/LS-T01E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Escolha Sua Dor  [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Trek/SRS/Discovery/T01/LS-T01E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Lete [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Trek/SRS/Discovery/T01/LS-T01E07.mkv$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Magia Para Fazer O Homem Mais Sao Ficar Louco [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Trek/SRS/Discovery/T01/LS-T01E08.mkv$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Se Queres A Paz, Preparas-te Para A Guerra [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Trek/SRS/Discovery/T01/LS-T01E09.mkv$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Para A Floresta Eu Vou [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Trek/SRS/Discovery/T01/LS-T01E10.mkv$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Apesar De Voce [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Trek/SRS/Discovery/T01/LS-T01E11.mkv$nome=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]O Lobo Interior [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Trek/SRS/Discovery/T01/LS-T01E12.mkv$nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Ambisao Desmentida [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Trek/SRS/Discovery/T01/LS-T01E13.mkv$nome=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]O Passado E Prologo [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Trek/SRS/Discovery/T01/LS-T01E14.mkv$nome=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]A Guerra Por Fora, A Guerra Por Dentro [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Trek/SRS/Discovery/T01/LS-T01E15.mkv$nome=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Segure A Minha Mao? [/B][/COLOR]</link>		
+		
+<thumbnail>https://www.themoviedb.org/t/p/original/aS6j4AxsFEGrHQ228d2LKVd33rZ.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/p1dHBvSkoLiKnXmSLkAL87kIhei.jpg</fanart>		
+<info>Após um século de isolamento, a Federação e o Império Klingon entram em guerra, e as ações de uma oficial da Frota Estelar estão no centro do conflito.</info>		
+<genre>FICÇÃO E FANTASIA</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+item>		
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Star Trek: Discovery (DATA) - T02 - FHD DUAL[/B][/COLOR]</title>		
+		
+<link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 00 EPs[/B][/COLOR]</link>		
+		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+<link><LINKUNIVVERSAL>$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<link>NOLINK$nome=[COLOR black][B].[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>		
+		
+<thumbnail><CAPADASERIE></thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/p1dHBvSkoLiKnXmSLkAL87kIhei.jpg</fanart>		
+<info>Após um século de isolamento, a Federação e o Império Klingon entram em guerra, e as ações de uma oficial da Frota Estelar estão no centro do conflito.</info>		
+<genre>FICÇÃO E FANTASIA</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR black].[/COLOR]</title>		
+<link>ignoreme</link>		
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>		
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]QUER ASSISTIR OUTRA TEMPORADA ?		
+SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>		
+<link>ignoreme</link>		
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>		
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
