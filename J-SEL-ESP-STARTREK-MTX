@@ -1,7 +1,7 @@
- <channels>
+<channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/A6-ESPC-LS-KRP/main/D-SEL-ESP-STARWARS-KRP</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/B6-ESPC-LS-MTX/main/J-SEL-ESP-STARTREK-MTX</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -14,8 +14,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]STAR TREK -> FILMES[/B][/COLOR]</name>	
 <externallink>https://raw.githubusercontent.com/GU712/A6-ESPC-LS-KRP/main/D1-FLM-STARWARS-KRP</externallink>
-<thumbnail>https://i.ibb.co/pXjwNMQ/STAR-WARS-FILM.png</thumbnail>				
-<fanart>https://i.ibb.co/z2ZVjX7/STARWARS-FAN.png</fanart>				
+<thumbnail>https://i.ibb.co/G06dG5P/STAR-TREK-FILM.png</thumbnail>				
+<fanart>https://i.ibb.co/2PKdt3M/STAR-TREK-FAN.png</fanart>				
 <info>[B]Assista aqui as séries da franquia STAR TREK[/B]</info>	
 </channel>
 </channels>
@@ -26,8 +26,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]STAR TREK -> SÉRIES[/B][/COLOR]</name>	
 <externallink>https://raw.githubusercontent.com/GU712/A6-ESPC-LS-KRP/main/D2-SRS-STARWARS-KRP</externallink>
-<thumbnail>https://i.ibb.co/18GwRbp/STAR-WARS-SER.png</thumbnail>				
-<fanart>https://i.ibb.co/z2ZVjX7/STARWARS-FAN.png</fanart>				
+<thumbnail>https://i.ibb.co/sRmQ4rb/STAR-TREK-SRS.png</thumbnail>				
+<fanart>https://i.ibb.co/2PKdt3M/STAR-TREK-FAN.png</fanart>				
 <info>[B]Assista aqui as séries da franquia STAR TREK[/B]</info>
 </channel>
 </channels>
