@@ -35,16 +35,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>			
 <title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Obi-Wan Kenobi (2022) - T01 - HD DUAL+LEG[/B][/COLOR]</title>			
 			
-<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 03 EPs[/B][/COLOR]</link>			
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 06 EPs[/B][/COLOR]</link>			
 			
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:V4RBQ6Z5FPSN2C6NHWFQZ2RPO7CIVESN$nome=[COLOR orange][B]T01E01-02[COLOR yellow] -> [COLOR white]Obi Wan Kenobi [/B][/COLOR]</link>			
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f19d766a65ece61429d14668c711be8f50a6e5a6$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Obi Wan Kenobi [/B][/COLOR]</link>			
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3f56a48bfb2f00392dd54a8c49e962d3e2e1580$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Obi Wan Kenobi [/B][/COLOR]</link>			
-link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
-link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
-link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
-link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
-link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af22187b3d2be4dd0bcd3d8b0cea2f77c48a924d$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Obi Wan Kenobi [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3f56a48bfb2f00392dd54a8c49e962d3e2e1580$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Obi Wan Kenobi [/B][/COLOR]</link>			
+link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f40f55ca615ed6207d1c863d76bdb84bcf935bd$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Obi Wan Kenobi [/B][/COLOR]</link>			
+link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4912f318735b4ac4a3853bd129c13989a0fb12f$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Obi Wan Kenobi [/B][/COLOR]</link>			
+link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:341fd3c3a79ccaca0f6c65a5983140d55370bcf2$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Obi Wan Kenobi [/B][/COLOR]</link>			
+link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
 			
 <thumbnail>https://www.themoviedb.org/t/p/original/mHVZlgWcmnBrrpOclkp3ARtHduw.jpg</thumbnail>			
 <fanart>https://www.themoviedb.org/t/p/original/p3Jmm6d1ShUrJEuU3DYD2K19c66.jpg</fanart>			
@@ -60,14 +59,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>			
 <title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Obi-Wan Kenobi (2022) - T01 - HD DUAL+LEG[/B][/COLOR]</title>			
 			
-<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 03 EPs[/B][/COLOR]</link>			
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 06 EPs[/B][/COLOR]</link>			
 			
 <link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Obi.Wan.Kenobi/LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Obi Wan Kenobi [/B][/COLOR]</link>			
 <link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Obi.Wan.Kenobi/LS-T01E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Obi Wan Kenobi [/B][/COLOR]</link>			
 <link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Obi.Wan.Kenobi/LS-T01E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Obi Wan Kenobi [/B][/COLOR]</link>			
-link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Obi.Wan.Kenobi/LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Obi Wan Kenobi [/B][/COLOR]</link>			
-link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Obi.Wan.Kenobi/LS-T01E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Obi Wan Kenobi [/B][/COLOR]</link>			
-link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Obi.Wan.Kenobi/LS-T01E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Obi Wan Kenobi [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Obi.Wan.Kenobi/LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Obi Wan Kenobi [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Obi.Wan.Kenobi/LS-T01E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Obi Wan Kenobi [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Obi.Wan.Kenobi/LS-T01E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Obi Wan Kenobi [/B][/COLOR]</link>			
 			
 <link>NOLINK$nome=[COLOR black][B].[/B][/COLOR]</link>			
 <link>NOLINK$nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>			
@@ -79,21 +78,3 @@ link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Obi.Wan.Kenobi/
 <genre>STAR WARS</genre>			
 </item>			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
-			
-			
-<item>			
-<title>[COLOR black].[/COLOR]</title>			
-<link>ignoreme</link>			
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>			
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>			
-</item>			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
-			
-<item>			
-<title>[COLOR orange][B]QUER ASSISTIR OUTRA TEMPORADA ?			
-SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>			
-<link>ignoreme</link>			
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>			
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>			
-</item>			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
