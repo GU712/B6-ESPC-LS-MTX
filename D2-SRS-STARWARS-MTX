@@ -66,21 +66,23 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<name>[COLOR white][B]A Guerra Dos Clones (2008 a 2020)[/B][/COLOR]</name>	
-<externallink><LINKKPARAPÁGINAALVO></externallink>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/opDY35ukPWTGFIxq17BBHJs49LD.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/jjECb6dSFUKXDtryuQk4rkFY7oP.jpg</fanart>
-<info>Assista aqui a série A Guerra Dos Clones
-[COLOR orange][B]STAR WARS[/B][/COLOR]
-[COLOR orange][B]ANOS  - 2008 a 2020[/B][/COLOR]
-[COLOR orange][B]7 TEMPS  - 133 EPS[/B][/COLOR]</info>
+<channels>
+<channel>
+<name>[COLOR white][B]Star Wars: A Guerra dos Clones (2008-2020) - ATUALIZANDO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/B6-ESPC-LS-MTX/main/D2G-SRS-A.Guerra.dos.Clones-MTX</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/opDY35ukPWTGFIxq17BBHJs49LD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/m6eRgkR1KC6Mr6gKx6gKCzSn6vD.jpg</fanart>
+<info>Assista a série Star Wars: A Guerra dos Clones. 
+[COLOR orange][B]FICÇÃO E FANTASIA[/B][/COLOR]
+[COLOR orange][B]07 TEMPS - 133 EPs[/B][/COLOR]
+[COLOR orange][B]ANOS - 2008 a 2020[/B][/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Star Wars: Rebels (2014-2017)[/B][/COLOR]</name>
+<name>[COLOR white][B]Star Wars: Rebels (2014-2017) - ATUALIZANDO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/B6-ESPC-LS-MTX/main/D2D-SRS-Rebels-MTX</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/kaglJdFMBQA8vqwg55bUUalv7jh.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/lcnbOzcRYPwDMRbfwG1uViUW9IE.jpg</fanart>
